@@ -109,6 +109,15 @@
     }
 
 
+    #ab_head_main
+    {
+        text-align: center;    
+    }
+    #ab_text_main
+    {
+        padding: 2vh;
+        text-align: center;
+    }
     #ab_head
     {
         text-align: center;    
